@@ -1,0 +1,29 @@
+    body{
+      background-color: black;
+    }
+    .bg{
+      background-color: gray;
+      width: 500px;
+      height: 400px;
+      padding-top: 30px;
+      margin: 0px,20px,0px,80px;
+      margin-top: 50px;
+      color: white;
+      border: 2px solid white;
+      border-radius: 20px;
+    }
+    h2{
+      text-align: center;
+      background-color: red;
+      border: 1px solid white;
+    }
+    button{
+      margin: 20px;
+    
+    }
+    .btn{
+        border: 1px solid white;
+    }
+    .broder{
+      border: 2px solid red;
+    }
